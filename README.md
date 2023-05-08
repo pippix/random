@@ -1,2 +1,2 @@
-# eller
-random
+random # eller
+eller # random
